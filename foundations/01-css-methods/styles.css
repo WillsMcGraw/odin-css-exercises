@@ -5,3 +5,9 @@ div {
     font-size: 22px;
     font-weight: bold;
 }
+
+p {
+    text-align: left;
+    color: white;
+    background-color: green;
+}
